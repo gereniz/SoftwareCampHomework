@@ -6,7 +6,9 @@ namespace MyDictionary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Dictionary<int,string> dictionaries = new Dictionary<int,string>();
+            dictionaries.Add(1, "Ali");
+            dictionaries.Add(2, "Ayşe");
         }
     }
 }

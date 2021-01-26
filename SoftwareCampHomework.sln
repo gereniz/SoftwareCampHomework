@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.808.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareCampHomework", "SoftwareCampHomework\SoftwareCampHomework.csproj", "{F446656E-08CD-40EA-AD00-3F927A42D425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{DD74852D-1C6F-4398-A57D-84B88FE26610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{6738F604-F04E-4816-9794-617D55A6B60B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F446656E-08CD-40EA-AD00-3F927A42D425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F446656E-08CD-40EA-AD00-3F927A42D425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F446656E-08CD-40EA-AD00-3F927A42D425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD74852D-1C6F-4398-A57D-84B88FE26610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD74852D-1C6F-4398-A57D-84B88FE26610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD74852D-1C6F-4398-A57D-84B88FE26610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD74852D-1C6F-4398-A57D-84B88FE26610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6738F604-F04E-4816-9794-617D55A6B60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6738F604-F04E-4816-9794-617D55A6B60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6738F604-F04E-4816-9794-617D55A6B60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6738F604-F04E-4816-9794-617D55A6B60B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
